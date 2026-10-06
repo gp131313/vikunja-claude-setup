@@ -1,0 +1,6 @@
+windows/setup/out/
+*.log
+*.bak*
+*.zip
+SHA256SUMS.txt
+notes*.md
